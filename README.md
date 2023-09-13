@@ -10,3 +10,13 @@ It is a web-based tool that allows users to search for books, view details about
 - Save books to a personal reading list.
 - Remove books from the reading list.
 - Responsive design for seamless use on desktop and mobile devices.
+
+
+## Technologies Used
+
+- HTML, CSS, JavaScript
+- React.js for the front-end user interface
+- Node.js and Express.js for the back-end server
+- MongoDB for database storage
+- Google Books API for book data
+- [Other libraries and dependencies you've used]
